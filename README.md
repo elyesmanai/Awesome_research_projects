@@ -3,5 +3,6 @@
 
 # Projects:
 ## Pix2code: 
-### code: https://github.com/tonybeltramelli/pix2code
-### paper: https://arxiv.org/abs/1705.07962
+|--> code: https://github.com/tonybeltramelli/pix2code
+
+|--> paper: https://arxiv.org/abs/1705.07962
