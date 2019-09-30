@@ -5,3 +5,7 @@
 >## Pix2code: Generating HTML code from a Screenshot
 >> **code:** https://github.com/tonybeltramelli/pix2code  
 >> **paper:** https://arxiv.org/abs/1705.07962
+
+>## Pix2code: Generating HTML code from a Screenshot
+>> **code:** https://github.com/tonybeltramelli/pix2code  
+>> **paper:** https://arxiv.org/abs/1705.07962
