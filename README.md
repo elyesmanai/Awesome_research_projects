@@ -7,5 +7,5 @@
 >**paper:** https://arxiv.org/abs/1705.07962
 
 ## DeepTabNine:
-> autocompleter that helps you write code faster. Trained on around 2 million files from GitHub, its goal is to predict each token given the tokens that come before it.
+> autocompleter that helps you write code faster. Trained on around 2 million files from GitHub, its goal is to predict each token given the tokens that come before it.  
 > **link:** https://tabnine.com/blog/deep/
